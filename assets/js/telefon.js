@@ -1,14 +1,4 @@
-// ==================================================
-// 
-// jquery-input-mask-phone-number 1.0.14
-//
-// Licensed (The MIT License)
-// 
-// Copyright © Raja Rama Mohan Thavalam <rajaram.tavalam@gmail.com>
-//
-// Last Updated On: 22/Aug/2020 IST  12:05 AM 
-//
-// ==================================================
+//bu js kodu kullanıcadan telefomn numarası alırken en fazla 11 karakter alır 
 
 (function ($) {
     $.fn.usPhoneFormat = function (options) {
