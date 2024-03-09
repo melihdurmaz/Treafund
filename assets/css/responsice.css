@@ -1,0 +1,12 @@
+@media screen and (max-width:600px) {
+    
+
+#topRight,#leftSideMenu{
+
+display: none;
+}
+#mainContent{
+    width: 100%;
+    margin: 0px auto;
+}
+}

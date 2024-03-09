@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainContent{
+    width: 65%;
+}
+#comment{
+    z-index: 99999;
+}
+.dropdown-item:active{
+    background-color: unset;
+}
+.accordion-body{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.accordion-profile{
+    padding-left: 0px;
+    padding-right: 0px; 
+    min-height: 600px;
+    max-height: 600px;
+    overflow-y: scroll;
+}
