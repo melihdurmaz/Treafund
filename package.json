@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/umi": "^0.9.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
+    "@metaplex-foundation/umi-uploader-bundlr": "^0.9.1"
+  }
+}
