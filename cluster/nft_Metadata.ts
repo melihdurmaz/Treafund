@@ -18,11 +18,11 @@ umi.use(signerIdentity(signer));
         // Follow this JSON structure
         // https://docs.metaplex.com/programs/token-metadata/changelog/v1.0#json-structure
 
-         const image = 'https://arweave.net/YlNxadQtdbHe-sbC_wJJXVrlzq6n6moqvDqs_eILM-k'
+         const image = 'https://raw.githubusercontent.com/melihdurmaz/Treafund/main/assets/image/kpmg.jpg'
          const metadata = {
-             name: "gezi",
-             symbol: "gezi",
-             description: "gezi NFT",
+             name: "Travel",
+             symbol: "MyTravel",
+             description: "firs mint",
              image: image,
              attributes: [
                  {trait_type: 'colour', value: 'babyblue'}
