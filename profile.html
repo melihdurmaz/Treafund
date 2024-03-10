@@ -85,6 +85,14 @@
                         </li>
                     </ul>
                 </div>
+                <button class="btn btn-outline-danger" onclick="getAccount()">NFT Cüzdanım</button>
+                <script> 
+                function getAccount()
+                {
+                    window.solana.connect
+                    window.solana.request({method:"connect"})
+                }
+                </script>
             </div>
             <!-- ekranın sol köşesinde bulunan profil kısmı bitiş-->
             <div id="mainContent" class="row col-8 d-flex felx-wrap col-12 col-md-auto mb-2 align-items-start justify-content-center p-1">
